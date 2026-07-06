@@ -2,7 +2,7 @@
 An interactive Excel Dashboard built using Swiggy sales data to analyze sales performance, customer ratings, restaurant performance, regional trends, and food category insights.
 ---
 ### Dataset Source: https://www.kaggle.com/code/rehamfaw/swiggy-data-data-analysis-project
-
+---
 ## 📌 Project Overview
 This project demonstrates the use of Microsoft Excel to transform raw sales data into meaningful business insights through interactive dashboards and visualizations.
 The dashboard enables users to analyze:
