@@ -1,6 +1,8 @@
 # 📊 Swiggy Sales Analysis Dashboard (Excel)
 An interactive Excel Dashboard built using Swiggy sales data to analyze sales performance, customer ratings, restaurant performance, regional trends, and food category insights.
 ---
+### Dataset Source: https://www.kaggle.com/code/rehamfaw/swiggy-data-data-analysis-project
+
 ## 📌 Project Overview
 This project demonstrates the use of Microsoft Excel to transform raw sales data into meaningful business insights through interactive dashboards and visualizations.
 The dashboard enables users to analyze:
@@ -52,6 +54,7 @@ Swiggy-Sales-Analysis-Excel/
 │
 └── 📁 Screenshots
     └── 🖼️ Dashboard.png
+
 ## 🔍 Key Insights
 - 📈 Identified monthly and daily sales trends.
 - 🏆 Analyzed top-performing restaurants.
@@ -72,5 +75,10 @@ Swiggy-Sales-Analysis-Excel/
 ---
 ## 👨‍💻 Author
 **Avaneendra Swayampakala**
----
-## ⭐ If you found this project helpful, don't forget to Star ⭐ this repository!
+🎯 Aspiring Data Analyst
+### 💼 Skills
+- 📗 Excel
+- 🐍 Python
+- 🗄️ SQL
+- 📊 Power BI
+- 📈 Statistical Analysis
