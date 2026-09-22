@@ -5,19 +5,16 @@ An interactive Excel Dashboard built using Swiggy sales data to analyze sales pe
 ---
 ## 📌 Project Overview
 This project demonstrates the use of Microsoft Excel to transform raw sales data into meaningful business insights through interactive dashboards and visualizations.
-The dashboard enables users to analyze:
-- 💰 Total Sales
-- 🛒 Total Orders
-- 💵 Average Order Value
-- ⭐ Average Rating
-- 👍 Rating Count
-- 📈 Monthly Sales Trend
-- 📅 Daily Sales Trend
-- 🗺️ Regional Sales Analysis
-- 🍕 Top 10 Restaurants
-- 🍽️ Sales by Food Type
-- 🏙️ Top 5 Cities
-- 📊 Quarter-wise Sales, Orders & Ratings
+## 📊 Key Insights
+
+- 💰 **Total Sales:** ₹5.30 Cr generated across **197,430 orders**, with an **Average Order Value of ₹268.51**.
+- 📉 **Monthly Sales Decline:** Sales decreased by **8.15% from January to February** and **5.53% from May to June**.
+- 📈 **Sales Recovery:** Sales increased by **4.86% from February to March** and **3.63% from June to July**.
+- 📅 **Daily Performance:** **Saturday** recorded the highest daily sales at **₹77.83 lakh**, while **Tuesday** recorded the lowest at **₹73.59 lakh**.
+- 🏙️ **Regional Performance:** **Bengaluru** generated the highest sales among the top 5 cities at **₹54.57 lakh**.
+- 🥗 **Food-Type Performance:** **Veg** generated ₹3.38 Cr in sales compared with ₹1.92 Cr for Non-Veg.
+- ⭐ **Customer Ratings:** The dashboard recorded an **average rating of 4.34** across **55.92 lakh ratings**.
+- 🏪 **Restaurant Performance:** **KFC** was the largest segment among the Top 10 restaurants displayed in the dashboard.
 ---
 ## 🛠️ Tools & Features Used
 - 📗 Microsoft Excel
